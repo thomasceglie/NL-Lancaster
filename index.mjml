@@ -1,0 +1,168 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Open Sans" padding="0px" align="center" color="#5E5E5E"></mj-all>
+      <mj-button color="#FFF" background-color="#FF651C" align="center" font-size="14" font-weight="500" text-transform="uppercase" border-radius="2px" height="39" inner-padding="10px 15px"></mj-button>
+      <mj-divider border-width="1px" border-style="solid" border-color="#D7D7D7" padding="60px 0px" />
+      <mj-class name="header" color="#FFFFFF" text-transform="uppercase"></mj-class>
+      <mj-class name="card__title" font-size="17" color="#454545" text-transform="uppercase" font-weight="bold" padding-bottom="12px" />
+    </mj-attributes>
+    <mj-style>
+      a {
+        color: #FF651C;
+      }
+
+      f {
+        color: #FF651C;
+      }
+
+      .box {
+        box-shadow: 0 4px 4px hsla(0,0%,0%,0.1)
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-container>
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://zupimages.net/up/20/41/r7w4.png" />
+          <mj-image src="https://zupimages.net/up/20/41/64pd.png" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column css-class="box" background-color='#FF651C' padding="20px 20px">
+          <mj-text font-size='24px' font-weight='700'  line-height='140%' color='#FFFFFF'> FÉVRIER : DES VACANCES HIVERNALES AU SOLEIL </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="30px 0px">
+        <mj-column vertical-align='middle' width='10%'>
+          <mj-image src="https://zupimages.net/up/20/41/cp0l.png" width='50px' align='center' />
+        </mj-column>
+        <mj-column vertical-align='middle' width='40%' padding-right='30px'>
+          <mj-text font-size='24px' font-weight='600' padding="10px 0px 10px 10px" align='center'>
+            Hello Céline !
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column padding='0px 23px'>
+          <mj-text align='left' line-height='130%' font-weight='300' padding-bottom='30px'> Nous voila plongés au coeur de l’Hiver ! Il fait plus froid que jamais et le soleil refuse souvent de se montrer... Mais s’il ne va pas auprès de L-Beauties, ce sont elles qui iront à lui.<br><br>
+
+            Que diriez-vous de prendre des vacances ? Vite, vite ! A vos réservations, à vos valises... Entre vos destinations préférées et <b>les produits Lancaster que vous préférez pour vos vacances au soleil</b>, nous avons de nombreuses choses à nous raconter ! </mj-text>
+          <mj-text align='left' text-decoration='underline' color='#FF651C' line-height='120%'>
+            <a href='https://www.lancaster-beauty.com/fr/nouveautes' target='_blank' color='red'>→ Voir les nouveautés pour me protéger cet hiver !</a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 20px 0px 20px">
+        <mj-column width='90%'>
+          <mj-text font-size='24px' font-weight='700' color='#FF651C' line-height='120%' text-transform='uppercase' padding-bottom='30px'> Vous êtes plutôt
+            Montagne ou plage ? </mj-text>
+          <mj-image src="https://zupimages.net/up/20/41/g4yk.png" padding-bottom="30px" />
+          <mj-text padding-bottom="20px" align='left' line-height='130%' font-weight="300">
+            Février est le moment propice pour partir en vacances ! Dans les Caraïbes, les Alpes ou sur la Riviera, tout endroit est plaisant si le soleil y est présent.
+          </mj-text>
+          <mj-text font-weight='800' align='left' padding-bottom="30px" line-height='120%'>
+            Quelle est votre prochaine destination ?
+          </mj-text>
+          <mj-button text-transform='uppercase' href='https://www.lancaster-beauty.com/fr/nouveautes' target='_blank'>
+            je veux découvrir ce nouveau sun challenge !
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column>
+          <mj-divider />
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 20px 0px 20px">
+        <mj-column width='90%'>
+          <mj-text font-size='24px' font-weight='700' color='#FF651C' line-height='120%' text-transform='uppercase' padding-bottom='20px'> CONCOURS EN AVANT PREMIÈRE ! </mj-text>
+          <mj-text font-size='20px' padding-bottom="20px" line-height='130%' font-weight="300" align='center'>
+            <b>VOUS</b> êtes les premiers privilégiés !
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 20px 10px 20px">
+        <mj-column width='90%'>
+          <mj-image src="https://zupimages.net/up/20/41/w041.jpeg" />
+        </mj-column>
+      </mj-section>
+
+      <mj-section  padding="0px 20px 20px 20px">
+      <mj-column width='30%' padding-right="10px">
+        <mj-image src="https://zupimages.net/up/20/41/auxw.png" />
+      </mj-column>
+      <mj-column  width='30%' padding='0px 5px'>
+        <mj-image src="https://zupimages.net/up/20/41/cgb5.png" />
+      </mj-column>
+      <mj-column  width='30%' padding-left="10px">
+        <mj-image src="https://zupimages.net/up/20/41/7j2y.png" />
+      </mj-column>
+      </mj-section>
+
+      <mj-section padding="0px 20px 30px 20px">
+        <mj-column width='90%'>
+          <mj-text font-weight='300' align='left' padding-bottom="30px" line-height='130%'>
+            À l’approche du printemps, inspirez vos communautés : nettoyez, rangez et réorganisez vos coins beauté. Lancaster publiera les plus beaux posts sur ses propres réseaux sociaux et l’une d’entre vous <b>gagnera un SUN PERFECT Fluide perfecteur rides et taches SPF 50.</b>
+          </mj-text>
+          <mj-text align='left' text-decoration='underline' color='#FF651C' padding-bottom="30px" line-height='120%'>
+            <a href='#' color='red'>→ Je m’inspire sur instagram avec le #TidyMakeUp !</a>
+          </mj-text>
+          <mj-button text-transform='uppercase' href='https://www.lancaster-beauty.com/fr/nouveautes' target='_blank'>
+            je participe au contest
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color='#F5F5F5' padding='30px 20px'>
+        <mj-column>
+          <mj-image src="https://zupimages.net/up/20/41/cp0l.png" width='50px' align='center' padding-bottom='20px' />
+          <mj-text font-size='20px' font-weight='200' line-height='120%'>
+            <b>Céline</b>, nous sommes ravis de vous compter dans notre communauté, continuez l’aventure et partagez la avec d’autres membres via nos <f>réseaux</f> !
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color='#F5F5F5'>
+        <mj-column>
+          <mj-image src="https://zupimages.net/up/20/41/h3c4.png" width='50px' align='center' padding-bottom='20px' href='https://www.facebook.com/LancasterFrance' target='_blank' />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://zupimages.net/up/20/41/vu22.png" width='50px' align='center' padding-bottom='20px' href='https://www.instagram.com/lancaster/?hl=fr' target='_blank' />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://zupimages.net/up/20/41/1txa.png" width='50px' align='center' padding-bottom='20px' href='https://www.pinterest.fr/lancasterparis/_shop/' target='_blank' />
+        </mj-column>
+        <mj-column>
+          <mj-image src="https://zupimages.net/up/20/41/4e8l.png" width='50px' align='center' padding-bottom='20px' href='https://www.youtube.com/user/lancasterparis' target='_blank' />
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color='#F5F5F5' padding='30px 20px'>
+        <mj-column>
+          <mj-text align='left' font-size='11px' color='#818181' line-height='120%'>
+            La Riviera Club est un service d’aide au shopping proposé par Lancaster via Teeps (société My Genius)<br><br>
+            Vous pouvez à tout moment avoir accès et changer les informations concernant vos coordonnées (adresse e-mail et courrier, changement de patronyme...) dans la rubrique “Mon Compte”<br><br>
+            conformément à la loi informatique et libertés du 6 janvier 1978 vous disposez d’un droit d’accès de rectification et d’opposition aux informations vous concernant qui peut s’effectuer par courrier à : My Genius, 92 rue d’Amsterdam - 75009 PARIS, en indiquant nom, prénom, adresse<br><br>
+            Si vous souhaitez vous désabonner, vous pouvez le faire en cliquant <a href='#'>ici</a>.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-container>
+  </mj-body>
+</mjml>
